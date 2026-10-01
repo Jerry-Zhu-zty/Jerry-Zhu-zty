@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi! I'm a C/C++ Developer</h1>
+  <h1>Hi! I'm high school student!</h1>
 </div>
 
 <br/>
