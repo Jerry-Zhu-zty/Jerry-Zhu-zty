@@ -27,3 +27,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="50" height="50" alt="Visual Studio"/>
   </p>
 </div>
+<br/>
+<div align="center">
+  
+[![Profile visits](https://komarev.com/ghpvc/?username=Jerry-Zhu-zty&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter "Profile visits")
+
+</div>
